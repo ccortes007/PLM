@@ -1,4 +1,3 @@
-@@ -0,0 +1,123 @@
 ---
 title: "Practical Learning Machine Project"
 author: "Carlos Cortes Franco"
